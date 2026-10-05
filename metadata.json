@@ -1,0 +1,6 @@
+{
+  "name": "TeleProto Messenger",
+  "description": "Telegram client with MTProto encrypted messaging, custom notification themes, secret chats, and Gemini intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
